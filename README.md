@@ -46,3 +46,4 @@ Bot masih banyak kekurangan, kalian bisa mengembangkannya sendiri supaya lebih b
 
 Copyright (c) 2022 M Yusril
 
+
